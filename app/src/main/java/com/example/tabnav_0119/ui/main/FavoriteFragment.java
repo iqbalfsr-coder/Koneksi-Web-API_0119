@@ -1,20 +1,14 @@
 package com.example.tabnav_0119.ui.main;
 
 import android.os.Bundle;
-
-import androidx.fragment.app.Fragment;
-
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 
+import androidx.fragment.app.Fragment;
+
 import com.example.tabnav_0119.R;
 
-/**
- * A simple {@link Fragment} subclass.
- * Use the {@link FavoriteFragment#newInstance} factory method to
- * create an instance of this fragment.
- */
 public class FavoriteFragment extends Fragment {
 
     // TODO: Rename parameter arguments, choose names that match
